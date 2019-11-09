@@ -6,7 +6,7 @@
 
 \begin{figure}[h]
   \centering
-   \includegraphics[width=8cm]{\C:\Users\zbysz\OneDrive\Pictures\Zrzuty ekranu\WCYB1.png}
+   \includegraphics[width=8cm]{Users/zbysz/OneDrive/Pictures/Zrzuty ekranu/WCYB1.png}
   \caption{onet.pl}
   \label{fig:example}
 \end{figure}
