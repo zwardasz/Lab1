@@ -3,5 +3,4 @@
 ### Zbigniew Wardaszka numer albumu 303729
 
 ## ZADANIE 1
-
-/graphicx C:\Users\zbysz\OneDrive\Pictures\Zrzuty ekranu
+/graphcx WCYB1.png
