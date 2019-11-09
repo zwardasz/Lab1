@@ -4,9 +4,4 @@
 
 ## ZADANIE 1
 
-\begin{figure}[h]
-  \centering
-   \includegraphics[width=8cm]{Users/zbysz/OneDrive/Pictures/Zrzuty ekranu/WCYB1.png}
-  \caption{onet.pl}
-  \label{fig:example}
-\end{figure}
+![obraz1](https://github.com/zwardasz/Lab1/blob/master/WCYB1.png)
