@@ -4,4 +4,4 @@
 
 ## ZADANIE 1
 
-![onet.pl](C:\Users\zbysz\OneDrive\Pictures\Zrzuty ekranu)
+/graphicx C:\Users\zbysz\OneDrive\Pictures\Zrzuty ekranu
