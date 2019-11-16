@@ -30,3 +30,8 @@ Następnie za pomocą pętli `for` i polecenia `host` dla każdej domeny w pliku
 
 Ostatnim krokiem jest wyodręnienie adresów IP za pomocą poleceia `grep`. Szukamy wyrażenia `"has address"`, a następnie wycinamy i sortujemy dane wyjściowe.
 ![obraz8](https://github.com/zwardasz/Lab1/blob/master/obraz8.png)
+
+
+##ZADANIE 2
+W tym miejscu nastepuje uzgodnienie sesji TCP
+![obraz9](Screenshot from 2019-11-09 09-11-06.png)
