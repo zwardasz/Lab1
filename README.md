@@ -46,18 +46,16 @@ A w tym zakończenie sesji. Nie widać flagi [FIN] ponieważ jest ona szyfrowana
 
 Strona jaką wybrałem to www.t-mobile.com
 Za pomoca komend `filetype` wpisując w cudzysłowie "salaries" 
-![obraz11](https://github.com/zwardasz/Lab1/blob/master/2019-11-17%20(1).png)
+![obraz11](https://github.com/zwardasz/Lab1/blob/master/1.1.png)
 Możemy znależć między innymi takie informacje jak ta:
-![obraz12](https://github.com/zwardasz/Lab1/blob/master/2019-11-17.png)
+![obraz12](https://github.com/zwardasz/Lab1/blob/master/1.2.png)
 lub wpisując "bonuses"
-![obraz13](https://github.com/zwardasz/Lab1/blob/master/2019-11-17%20(3).png)
+![obraz13](https://github.com/zwardasz/Lab1/blob/master/1.3.png)
 dostajemy informację o bonusach
-![obraz14](https://github.com/zwardasz/Lab1/blob/master/2019-11-17%20(2).png)
-
+![obraz14](https://github.com/zwardasz/Lab1/blob/master/1.4.png)
 ## ZADANIE 6
 Wpisując podobne hasła do domeny pw.edu.pl nie znajdujemy żadnych poufnych danych.
-![obraz15](https://github.com/zwardasz/Lab1/blob/master/2019-11-17%20(4).png)
-
+![obraz15](https://github.com/zwardasz/Lab1/blob/master/1.5.png)
 ## ZADANIE 7
 Za pomocą polecenia `whois` systemu operacyjnego Kali Linux identyfikujemy nazwy serwerów Politechniki Warszawskiej
 ![obraz16](https://github.com/zwardasz/Lab1/blob/master/serwery_pw%20(2).png)
