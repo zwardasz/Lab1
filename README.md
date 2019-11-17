@@ -94,12 +94,12 @@ Znajdujemy serwery DNS domeny `megacorpone.com`
 
 ## ZADANIE 9
 
-Piszemy skrypt Bash by przenieść strefę z `megacorpone.com`
+Piszemy skrypt Bash próbując przenieść strefę z `megacorpone.com`
 
 ![obraz18](https://github.com/zwardasz/Lab1/blob/master/2.1.png)
 
 ## ZADANIE 10
 
-Za pomocą polecenia `dnsrecon` przenosimy strefę z `megacorpone.com`
+Za pomocą polecenia `dnsrecon` próbujemy przenieść strefę z `megacorpone.com`
 
 ![obraz18](https://github.com/zwardasz/Lab1/blob/master/2.2.png)
